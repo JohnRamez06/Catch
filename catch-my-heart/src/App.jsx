@@ -16,8 +16,9 @@ const BAD = ["☁️", "🌧️"];
 
 const WIN_TITLE = "you caught my heart 🥹";
 const WIN_MSG =
-  "Every single one of those hearts is one more reason I'm lucky to have you. " +
-  "You make ordinary days feel like something worth smiling about — thank you for being you. I love you. 💗";
+  "One month with you and I already can't picture my days without you in them. " +
+  "You're the one who always finds a way to make me smile, even on the days that don't deserve it. " +
+  "I love having you beside me, and I love you. Here's to so many more. 💗";
 const LOSE_TITLE = "close enough — I'm still yours 😌";
 const LOSE_MSG =
   "Okay so the hearts got away a little, but honestly? So did mine, a long time ago — straight to you. " +
